@@ -1,0 +1,6 @@
+seed: 42
+paths:
+  data_dir: data/
+  weights_dir: models/
+  weights_name: deepfake_detector_final.h5
+  runs_dir: runs/
