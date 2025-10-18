@@ -10,7 +10,7 @@ Two-stream deepfake detection model combining CNN image features with facial lan
 - Includes training and inference notebooks.
 
 ## Project Structure
-deepfake-detector/
+```deepfake-detector/
 ├── configs/          # config files (paths, settings)
 ├── data/             # datasets (not included)
 ├── models/           # trained model weights
@@ -18,6 +18,7 @@ deepfake-detector/
 ├── runs/             # outputs, saved arrays, logs
 ├── requirements.txt
 └── README.md
+```
 
 ## How to Run
 1. Install dependencies  
